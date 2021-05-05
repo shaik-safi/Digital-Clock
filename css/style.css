@@ -1,7 +1,6 @@
 html,body{
     margin: 0;
     width: 100%;
-    overflow: hidden
 }
 html { 
     background: url(../images/image.jpg) no-repeat center center fixed; 
@@ -10,17 +9,6 @@ html {
     -o-background-size: cover;
     background-size: cover;
   }
-
-/* .main-container{
-    width: 100%;
-    height: auto;
-    position: relative;
-} */
-
-/* .img-background{
-    width: 100%;
-    height: auto;
-} */
 
 h1{
     width: 100%;
